@@ -4,6 +4,7 @@ This Grade Checker is a simple mobile application built using **Android Studio**
 
 ___**This project is developed as a university requirement for the course CTAPDEVL: Applications Development and Emerging Technologies.**___
 
+## 📚 Grading System (Conditional Statements)
 🐶 This mobile application uses the **grade point system of National University**, which is listed below:
 
 | **Grade Range** | **Grade Point** | 
